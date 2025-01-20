@@ -1,19 +1,42 @@
-# 👋 Hi, I'm @lschvn
+# Hi there, I'm Louis Leschevin! 👋
 
-Welcome to my GitHub profile! I'm a passionate web developer focused on creating innovative and engaging web applications.
+**Web Developer**
 
-## 🌟 About Me
+Welcome to my GitHub profile! I’m a third-year Web Development student at [MyDigitalSchool](https://mydigitalschool.com), currently working in an apprenticeship at **Optimum Circle**, a web agency. This space is where I share my projects, document my learning journey, and (hopefully) help others along the way—just as many have helped me.
 
-- 👀 I’m interested in: Creating web applications that make a difference.
-- 🌱 I’m currently learning: NuxtJS and NodeJS.
-- 🎓 Currently: A second-year student at MyDigitalSchool.
-- 📫 How to reach me:
-  - 🐦 Twitter: [@LouisLSCHVN](https://twitter.com/LouisLSCHVN)
-  - 📷 Instagram: [louis.leschevin](https://www.instagram.com/louis_leschevin/)
-  - 📧 Email: [louis.leschevin@gmail.com](mailto:louis.leschevin@gmail.com)
-  - 🔗 LinkedIn: [Louis Leschevin](https://www.linkedin.com/in/louis-leschevin/)
+---
 
-## 🚧 Current Endeavors
+## 🔎 What I Do
 
-I'm always working on something new! Currently, I'm diving deep into NuxtJS and NodeJS to enhance my skills in web application development.
-Feel free to check out my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
+- **Web Development**: Building applications with **Nuxt**, **TypeScript**, **Symfony**, **Laravel**, and various CMS platforms like **WordPress**.  
+- **Continuous Learning**: Whether it's a new framework, a challenging project, or an emerging technology, I'm always up for learning something new.
+
+---
+
+## 🚀 Current Focus
+- **Nuxt & TypeScript**: Enhancing front-end performance and maintainability.  
+- **Server-Side Development**: Exploring Node.js and deeper aspects of backend frameworks.  
+
+Feel free to browse my repositories to see what I’m working on!
+
+---
+
+## 🌍 About Me
+
+- **Location**: Based in France, between Caen and Rouen.  
+- **Interests**: I enjoy traveling, reading, and continually expanding my skill set.  
+- **Goal**: To build impactful web solutions that make a real difference.
+
+---
+
+## 🤝 Let’s Connect
+- **Twitter**: [@LouisLSCHVN](https://twitter.com/LouisLSCHVN)  
+- **Instagram**: [louis_leschevin](https://www.instagram.com/louis_leschevin/)  
+- **LinkedIn**: [Louis Leschevin](https://www.linkedin.com/in/louis-leschevin/)  
+- **Email**: [louis.leschevin@gmail.com](mailto:louis.leschevin@gmail.com)
+
+Interested in collaborating, or just want to say hello? Don’t hesitate to reach out. I’m always open to discussing new ideas and opportunities!
+
+---
+
+Thanks for visiting and happy coding! 🚀
