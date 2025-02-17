@@ -2,7 +2,7 @@
 
 **Web Developer**
 
-Welcome to my GitHub profile! I’m a third-year Web Development student at [MyDigitalSchool](https://mydigitalschool.com), currently working in an apprenticeship at **Optimum Circle**, a web agency. This space is where I share my projects, document my learning journey, and (hopefully) help others along the way—just as many have helped me.
+Welcome to my GitHub profile! I’m a third-year Web Development student at [MyDigitalSchool](https://mydigitalschool.com). This space is where I share my projects, document my learning journey, and (hopefully) help others along the way—just as many have helped me.
 
 ---
 
